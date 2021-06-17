@@ -1,9 +1,0 @@
-{
-    "name": "ValheimArmorstand",
-    "version_number": "0.0.2",
-    "website_url": "https://github.com/ceko/valheim-armorstand",
-    "description": "ValheimArmorstand adds ways to display your armor and items on poseable models. This mod is unsupported.",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.900" 
-    ]
-}

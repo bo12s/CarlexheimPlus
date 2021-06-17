@@ -1,24 +1,22 @@
 try { 
     $valheimPath = Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 892970" -Name InstallLocation
-    $bepinex = $valheimPath+"\BepInEx" 
-    $configPath = $bepinex+"\config\" 
-    $pluginsPath = $bepinex+"\plugins\" 
-    $patchersPath = $bepinex+"\patchers\" 
+    $bepinexPath = $valheimPath+"\BepInEx" 
+    $configPath = $bepinexPath+"\config\" 
+    $pluginsPath = $bepinexPath+"\plugins\" 
+    $patchersPath = $bepinexPath+"\patchers\" 
 }
 catch { 
     "Couldn't find Valheim folder through registry, install manually."
     return 
 }
 
-Write-Host "BepInEx folder found:"
-Write-Host $bepinex
+Write-Host "Valheim folder found:"
+Write-Host $valheimPath
 Write-Host 
 
 
-RemoveFolder -targetFolder $configPath
-RemoveFolder -targetFolder $pluginsPath
-CopyToBepInEx -source .\config
-CopyToBepInEx -source .\plugins
+RemoveFolder -targetFolder $bepinexPath
+CopyToValheim -source .\BepInEx
 
 function RemoveFolder{
     param($targetFolder)
@@ -35,8 +33,8 @@ function RemoveFolder{
     }
 }
 
-function CopyToBepInEx{
+function CopyToValheim{
     param($source)
 
-    Copy-Item $source -Destination $bepinex -Recurse
+    Copy-Item $source -Destination $valheimPath -Recurse
 }
