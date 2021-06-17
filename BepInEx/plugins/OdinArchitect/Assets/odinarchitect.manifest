@@ -1,0 +1,174 @@
+ManifestFileVersion: 0
+CRC: 2736645293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e05262314f28c836dd34ff05f01e507a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c059edfa0f33bbad2fde816fabf961e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84f26fc0fb8069b4b86a527e765269a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9af312317a064874a88d45b5ad8ab198, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 264bafa1f887a364d9b01cb920b6ad0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 417bc3f16bb27e74ba5b67eb6bf32667, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7054052241aa2474dae77146665796d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c66f8fb2994f4c640bbbaa87405673b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7501f6f2ec4f06b46a2a998b68875747, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d43486931bab7fd49aa676d52e3494ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11971bd31af7e95459827f08fe3f1a84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08d1aa640e2334e4ea57fc48bf1b41c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8db45145d18fa3b49b9890379cef1b14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa96dd1696c5aff48a99879a624b6a03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20a0f1a620ddbd6478e29aab9cb11c18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2eecdf5701bfb104198dd37a4a4b54cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c852a997866695b458515dffdeb3e935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8b5f25869f9f1641aa2ce99705d4363, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ac87a3987ada7d45badfbc0d695f9f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e45b600adfa3967438d556700802d7bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 397284ba7cda1da419ea06ca58610f1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eaa38e0bb6c3f1b478aaee1f4deb7580, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16ef4e6b7982412418d84ec9855de334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 777c5cccee041de428b44184bee8323d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f241c4ddcf50b841a622a474825307f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e215bfddad767f41b79e1960cc452fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d8b5eeb81c6d347bfe1d8827b1dfc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e455b75f351f82c45a56a2a84391c9ea, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CustomStructures/piece_ironbeam_45_thin.prefab
+- Assets/CustomStructures/refined_stakewall_1.prefab
+- Assets/CustomStructures/iron_beam_short.prefab
+- Assets/CustomStructures/stonewall_hardrock_2x1.prefab
+- Assets/CustomStructures/surtling_lantern_1.prefab
+- Assets/CustomStructures/wooden_fence_2.prefab
+- Assets/CustomStructures/thin_iron_beam_1.prefab
+- Assets/CustomStructures/wooden_window_small.prefab
+- Assets/CustomStructures/iron_gate_small.prefab
+- Assets/CustomStructures/stone_pole_long.prefab
+- Assets/CustomStructures/stone_floor_1_new.prefab
+- Assets/CustomStructures/stone_beam_long.prefab
+- Assets/CustomStructures/iron_pole_long.prefab
+- Assets/CustomStructures/stone_pole_short.prefab
+- Assets/CustomStructures/stonewall_hardrock_pillar.prefab
+- Assets/CustomStructures/stone_arch_1.prefab
+- Assets/CustomStructures/surtling_lantern_3.prefab
+- Assets/CustomStructures/stone_window_big.prefab
+- Assets/CustomStructures/piece_ironbeam_25_thin.prefab
+- Assets/CustomStructures/stonewall_hardrock_1x1.prefab
+- Assets/CustomStructures/stonewall_hardrock_arch.prefab
+- Assets/CustomStructures/wooden_fence_2_gate.prefab
+- Assets/CustomStructures/wooden_fence_1.prefab
+- Assets/CustomStructures/iron_dragon.prefab
+- Assets/CustomStructures/thin_wood_beam_2.prefab
+- Assets/CustomStructures/food_smelter.prefab
+- Assets/CustomStructures/piece_woodbeam_45_thin.prefab
+- Assets/CustomStructures/surtling_lantern_2.prefab
+- Assets/CustomStructures/stonewall_hardrock_4x2.prefab
+- Assets/CustomStructures/refined_sharpstakes.prefab
+- Assets/CustomStructures/stone_arch_2_small.prefab
+- Assets/CustomStructures/stone_window_small.prefab
+- Assets/CustomStructures/thin_iron_pole_1.prefab
+- Assets/CustomStructures/stone_table_1.prefab
+- Assets/CustomStructures/wooden_window_big.prefab
+- Assets/CustomStructures/stonewall_hardrock_stairs.prefab
+- Assets/CustomStructures/iron_pole_short.prefab
+- Assets/CustomStructures/wooden_drawbridge_1.prefab
+- Assets/CustomStructures/surtling_lantern_4.prefab
+- Assets/CustomStructures/piece_woodbeam_25_thin.prefab
+- Assets/CustomStructures/thin_iron_beam_2.prefab
+- Assets/CustomStructures/wooden_arch_1.prefab
+- Assets/CustomStructures/iron_gate_big.prefab
+- Assets/Material/_REPLACE_grave_fog.mat
+- Assets/CustomStructures/big_pillar.prefab
+- Assets/CustomStructures/thin_wood_beam_1.prefab
+- Assets/CustomStructures/stone_throne_1.prefab
+- Assets/CustomStructures/iron_beam_long.prefab
+- Assets/CustomStructures/thin_iron_pole_2.prefab
+- Assets/CustomStructures/stone_beam_short.prefab
+- Assets/CustomStructures/thin_wood_pole_1.prefab
+- Assets/CustomStructures/wooden_fence_1_gate.prefab
+- Assets/CustomStructures/thin_wood_pole_2.prefab
+- Assets/CustomStructures/wooden_gate_1.prefab
+Dependencies: []

@@ -1,3 +1,11 @@
+if (Test-Path .\main.zip) {
+    Remove-Item .\main.zip
+}
+
+if (Test-Path .\CarlexheimPlus-main) {
+    Remove-Item .\CarlexheimPlus-main -Recurse
+}
+
 Invoke-WebRequest https://github.com/bo12s/CarlexheimPlus/archive/main.zip -OutFile main.zip
 
 Expand-Archive -LiteralPath .\main.zip -DestinationPath .\
@@ -8,4 +16,4 @@ Remove-Item .\unstripped_corlib -Recurse
 Remove-Item .\doorstop_config.ini
 Remove-Item .\winhttp.dll
 
-Copy-Item -Path .\CarlexheimPlus-main\* -Destination .\ -Exclude *.ps1
+Copy-Item -Path .\CarlexheimPlus-main\* -Destination .\ -Exclude *.ps1 -Recurse
