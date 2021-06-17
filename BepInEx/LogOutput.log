@@ -1,0 +1,626 @@
+[Message:   BepInEx] BepInEx 5.4.11.0 - valheim
+[Info   :   BepInEx] Running under Unity v2019.4.24.6137584
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.1.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 39 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.6.0]
+[Info   : PlantEverything] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Instant Monster Drop 0.3.3]
+[Info   :   BepInEx] Loading [Map Coordinate Display 0.3.0]
+[Info   :   BepInEx] Loading [Repeat Actions 0.4.0]
+[Info   :   BepInEx] Loading [Forgotten Biomes 0.0.10]
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: Running on Windows based server 
+
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: loaded config from : C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
+
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: loaded config from : C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
+
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: loaded config from : C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
+
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: loaded config from : C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
+
+[Info   : Unity Log] 06/17/2021 14:22:28: Forgotten_Biomes: loaded config from : C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
+
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Spawn That! 0.10.0]
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Info   :   BepInEx] Loading [RRRCore 0.2.7]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [JotunnLib 0.1.6]
+[Info   : Unity Log] Initialized PrefabManager
+[Info   : Unity Log] Initialized PieceTableManager
+[Info   : Unity Log] JotunnLib v0.1.6 loaded successfully
+[Info   :   BepInEx] Loading [Forsaken 0.7.0]
+[Info   :   BepInEx] Loading [Jotunn 2.0.12]
+[Info   :    Jotunn] Initialized LocalizationManager
+[Info   :    Jotunn] Initialized CommandManager
+[Info   :    Jotunn] Initialized InputManager
+[Info   :    Jotunn] Initialized SkillManager
+[Info   :    Jotunn] Initialized PrefabManager
+[Info   :    Jotunn] Initialized ItemManager
+[Info   :    Jotunn] Initialized PieceManager
+[Info   :    Jotunn] Initialized MockManager
+[Info   :    Jotunn] Initialized GUIManager
+[Info   :    Jotunn] Initialized SynchronizationManager
+[Info   :    Jotunn] Jotunn v2.0.12 loaded successfully
+[Info   :   BepInEx] Loading [DaedricBow 0.0.2]
+[Info   :   BepInEx] Loading [ValheimStands 0.0.1]
+[Info   :ValheimStands] Applying patches.
+[Info   :ValheimStands] Asset bundle loading at path C:\DEV\G\Steam\steamapps\common\Valheim\BepInEx\plugins\ValheimStands\valheim-stands
+[Info   :ValheimStands] Setting up FullArmorStand
+[Info   :ValheimStands] ValheimStands.Unity.LazyPieceSettings
+[Info   :   BepInEx] Loading [Pressure-Plate 0.2.1]
+[Info   :   BepInEx] Loading [OdinArchitect 0.0.2]
+[Info   :OdinArchitect.OdinArchitect] Assets [odinarchitect (UnityEngine.AssetBundle)] loaded succesfully
+[Info   :OdinArchitect.OdinArchitect] Locales from .json file loaded succesfully
+[Info   :   BepInEx] Loading [BoneAppetit 2.0.1]
+[Info   :   BepInEx] Loading [SkToolbox 1.10.4.0]
+[Info   :   BepInEx] Loading [Easy Spawner 1.4.2]
+[Info   : Unity Log] Easy spawner: Easy spawner loaded plugin
+[Info   :   BepInEx] Loading [Terraheim 2.0.6]
+[Info   : Unity Log] 06/17/2021 14:22:32: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 06/17/2021 14:22:32: Failed to load language file localization_extra
+
+[Info   : Unity Log] 06/17/2021 14:22:32: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 06/17/2021 14:22:32: Failed to load language file localization_extra
+
+[Info   : Terraheim] Loaded localization for English
+[Info   : Terraheim] Status Effects Injected
+[Warning: Terraheim] Barbarian armor not found!
+[Info   : Terraheim] Patching complete
+[Info   :   BepInEx] Loading [TerraheimItems 2.0.6]
+[Info   :TerraheimItems] Loaded localization for English
+[Info   :TerraheimItems] Patching complete
+[Info   :   BepInEx] Loading [DYB Assets 1.0.0]
+[Info   :   BepInEx] Loading [More Gates 1.0.7]
+[Info   :   BepInEx] Loading [More Two Handed Weapons 4.2.2]
+[Info   :   BepInEx] Loading [Better Archery 1.6.2]
+[Info   :   BepInEx] Loading [Safe Death 1.2.1]
+[Info   :   BepInEx] Loading [Valheim Plus Build Expansion 1.0.8]
+[Error  :   BepInEx] Could not load [Mjolnir 1.0.1] because it has missing dependencies: ValheimModdingTeam.ValheimLib
+[Info   :   BepInEx] Loading [Item Drawers 0.4.1]
+[Info   :AuthoritativeConfig_mkz.itemdrawers] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.8.2]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Loading key maximumFlax
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareablePins
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Loading key mortality
+[Info   : Unity Log]  Loading key ownerDamageOverride
+[Info   : Unity Log]  Loading key stunRecoveryTime
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key displayStaminaValue
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log]  Loading key forceConsole
+[Info   : Unity Log]  Loading key bigPortalNames
+[Info   : Unity Log]  Loading key disableFog
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Loading key wagonExtraMassFromItems
+[Info   : Unity Log]  Loading key wagonBaseMass
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Loading key rotateY
+[Info   : Unity Log]  Loading key rotateX
+[Info   : Unity Log]  Loading key rotateZ
+[Info   : Unity Log]  Loading key copyRotationParallel
+[Info   : Unity Log]  Loading key copyRotationPerpendicular
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Loading key align
+[Info   : Unity Log]  Loading key alignToggle
+[Info   : Unity Log]  Loading key changeDefaultAlignment
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Loading key useAMPM
+[Info   : Unity Log]  Loading key textFontSize
+[Info   : Unity Log]  Loading key textRedChannel
+[Info   : Unity Log]  Loading key textGreenChannel
+[Info   : Unity Log]  Loading key textBlueChannel
+[Info   : Unity Log]  Loading key textTransparencyChannel
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   : Unity Log] 06/17/2021 14:22:35: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   :Valheim Plus] ValheimPlus [0.9.8.2] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.1.0]
+[Info   :   BepInEx] Loading [Mod Config Enforcer 2.1]
+[Info   :   BepInEx] Loading [Combat Evolved 0.4.7]
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.2]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.1]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.9]
+[Info   :   BepInEx] Loading [SGG Valheim Mod 0.3.0]
+[Info   :   BepInEx] Loading [Custom Seed 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 06/17/2021 14:22:39: Starting to load scene:start
+
+[Info   :    Jotunn] Applying patches in ModCompatibility.InitPatch
+[Info   :    Jotunn] Applying patches in PlayerPatches.Init
+[Info   :    Jotunn] Applying patches in ZNetPatches.Init
+[Info   :    Jotunn] Applying patches in InGameConfig.HookOnSettings
+[Info   :    Jotunn] Applying patches in ModCompatibility.InitPatchEarly
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.154.1@0.9.8.2
+[Info   : Unity Log] 06/17/2021 14:22:42: Valheim version:0.154.1@0.9.8.2
+
+[Info   : Unity Log] [ZeroBandwidth]Dedicated Server Custom Seed:iPjxCMUsPd
+[Info   : Unity Log] [ZeroBandwidth]Dedicated Server Custom Seed Hash:1656601395
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.154.1@0.9.8.2
+[Info   : Unity Log] 06/17/2021 14:22:42: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.154.1@0.9.8.2
+[Info   : Unity Log] 06/17/2021 14:22:42: Using environment steamid 892970
+
+[Info   : Unity Log] 06/17/2021 14:22:42: Using steam APPID:892970
+
+[Info   : Unity Log] 06/17/2021 14:22:42: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 06/17/2021 14:22:42: Steam initialized, persona:bo12s
+
+[Warning: Unity Log] 06/17/2021 14:22:42: Missing audio clip in music respawn
+
+[Info   : Unity Log] 06/17/2021 14:22:42: Checking for installed DLCs
+
+[Info   : Unity Log] 06/17/2021 14:22:42: DLC:beta installed:False
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.154.1@0.9.8.2
+[Info   :Jotunn.Managers.LocalizationManager] ---- Loading custom localizations ----
+[Info   :Jotunn.Managers.LocalizationManager] Added json language file: translations.json
+[Info   : Unity Log] 06/17/2021 14:22:42: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 06/17/2021 14:22:42: Failed to load language file localization_extra
+
+[Info   :Jotunn.Managers.LocalizationManager] ---- Adding tokens for language 'English' ----
+[Warning:RRRMonsters] True
+[Info   :OdinArchitect.ObjectDB_Awake_Patch] Material Replacer loaded succesfully
+[Info   :OdinArchitect.MaterialReplacer] No replacement for meterial: stone_sunken.Using custom material.
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Warning:RRRMonsters] True
+[Info   :OdinArchitect.MaterialReplacer] No replacement for meterial: stone_sunken.Using custom material.
+[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   :Jotunn.Managers.ItemManager] ---- Adding custom items to StartGui (ObjectDB) ----
+[Info   :Jotunn.Managers.ItemManager] Added item DaedricBow | Token: DaedricBow
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFolcbrand | Token: $item_greatsword_folcbrand
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordIron | Token: $item_greatsword_iron
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordBlackmetal | Token: $item_greatsword_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item AxeForstasca | Token: $item_axe_frost
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirSilver | Token: $item_atgeir_silver
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeIron | Token: $item_knife_iron
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldSilverDagger | Token: $item_shield_silverdagger
+[Info   :Jotunn.Managers.ItemManager] Added item BowBlackmetalTH | Token: $item_bow_blackmetalTH
+[Info   :Jotunn.Managers.ItemManager] Added item PickaxeBlackmetal | Token: $item_pickaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item SpearBlackmetal | Token: $item_spear_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBlackmetal | Token: $item_battleaxe_sledge_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBronzeTerraheim | Token: $item_battleaxe_bronze_terraheim
+[Info   :Jotunn.Managers.ItemManager] Added item GreataxeBlackmetal | Token: $item_battleaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeSilver | Token: $item_battleaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item MaceFireTH | Token: $item_mace_fire
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordFireTH | Token: $item_greatsword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirFireTH | Token: $item_atgeir_fire
+[Info   :Jotunn.Managers.ItemManager] Added item BowFireTH | Token: $item_bow_fireTH
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeFireTH | Token: $item_battleaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SledgeFireTH | Token: $item_battleaxe_sledge_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AxeFireTH | Token: $item_axe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeFireTH | Token: $item_knife_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SpearFireTH | Token: $item_spear_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFire | Token: $item_throwingaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ArrowGreatFireTH | Token: $item_arrow_great_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFireTH | Token: $item_sword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item TorchOlympia | Token: $item_torch_olympia
+[Info   :Jotunn.Managers.ItemManager] Added item BombFire | Token: $item_firebomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombFrost | Token: $item_frostbomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombLightning | Token: $item_lightningbomb
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFlint | Token: $item_throwingaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBronze | Token: $item_throwingaxe_bronze
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeIron | Token: $item_throwingaxe_iron
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeSilver | Token: $item_throwingaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBlackmetal | Token: $item_throwingaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item rk_icecream | Token: Ice Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porkrind | Token: Pork Rind
+[Info   :Jotunn.Managers.ItemManager] Added item rk_kabob | Token: Kebab
+[Info   :Jotunn.Managers.ItemManager] Added item rk_friedloxmeat | Token: Chicken Fried Lox
+[Info   :Jotunn.Managers.ItemManager] Added item rk_glazedcarrots | Token: Glazed Carrots
+[Info   :Jotunn.Managers.ItemManager] Added item rk_bacon | Token: Bacon
+[Info   :Jotunn.Managers.ItemManager] Added item rk_smokedfish | Token: Smoked Fish
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pancake | Token: Pancakes
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pizza | Token: Pizza
+[Info   :Jotunn.Managers.ItemManager] Added item rk_coffee | Token: Coffee
+[Info   :Jotunn.Managers.ItemManager] Added item rk_latte | Token: Spiced Latte
+[Info   :Jotunn.Managers.ItemManager] Added item rk_firecream | Token: Fire Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_electriccream | Token: Electric Cream Cone
+[Info   :Jotunn.Managers.ItemManager] Added item rk_acidcream | Token: Acid Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porridge | Token: Porridge
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pbj | Token: Jimmy's PBJ
+[Info   :Jotunn.Managers.ItemManager] Added item rk_birthday | Token: RK's Birthday Cake
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_helmet_drake_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_chest_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_legs_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet | Token: $item_helmet_woodsman
+[Info   :Jotunn.Managers.ItemManager] Added item BeltMiner_Terraheim_AddCirculets_AddMinersCirculet | Token: $item_belt_miner
+[Info   :Jotunn.Managers.ItemManager] Added item BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt | Token: $item_belt_waterproof
+[Info   :Jotunn.Managers.ItemManager] Added item BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt | Token: $item_belt_farmer
+[Info   :Jotunn.Managers.ItemManager] Added item BeltThief_Terraheim_AddCirculets_AddThiefBelt | Token: $item_belt_thief
+[Info   :Jotunn.Managers.ItemManager] Updating item hashes
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   : Unity Log] 06/17/2021 14:22:43: Failed to find item prefab v801_UnarmedFenring
+
+[Info   : Unity Log] 06/17/2021 14:22:43: Failed to find item prefab v801_UnarmedFrostOH
+
+[Info   : Unity Log] 06/17/2021 14:22:43: Failed to find item prefab v801_UnarmedFrost
+
+[Info   : Unity Log] 06/17/2021 14:22:43: Vis equip model set to 1
+
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Info   : Unity Log] 06/17/2021 14:22:45: UI Group status changed Menu = True
+
+[Info   :ValheimStands] Unapplying patches.
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-a90a8b14-ee1e-44b0-95ef-79b526b4fb46), use UnpatchSelf() instead.
+[Info   : Unity Log] 06/17/2021 14:23:14: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
