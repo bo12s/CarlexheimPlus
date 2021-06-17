@@ -1,6 +1,6 @@
-#Invoke-WebRequest https://github.com/bo12s/CarlexheimPlus/archive/main.zip -OutFile main.zip
+Invoke-WebRequest https://github.com/bo12s/CarlexheimPlus/archive/main.zip -OutFile main.zip
 
-#Expand-Archive -LiteralPath .\main.zip -DestinationPath .\
+Expand-Archive -LiteralPath .\main.zip -DestinationPath .\
 
 Remove-Item .\BepInEx -Recurse
 Remove-Item .\doorstop_libs -Recurse
