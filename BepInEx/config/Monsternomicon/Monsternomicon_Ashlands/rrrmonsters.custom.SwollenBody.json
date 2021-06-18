@@ -14,8 +14,7 @@
          "fRed":0.05,
          "fGreen":0.05,
          "fBlue":0.05
-      },
-      "sCustomTexture":"SwollenBody"
+      }
    },
    "Category_Character":{
       "sName":"Swollen Body",

@@ -10,8 +10,7 @@
       "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null,
-      "sCustomTexture":null
+      "cBodyFlames":null
    },
    "Category_Character":{
       "sName":"Elder Surtling",

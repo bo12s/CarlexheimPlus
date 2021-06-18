@@ -7,15 +7,18 @@
          "fY":0.3,
          "fZ":0.3
       },
-      "cTintColor":null,
+      "cTintColor":{
+         "fRed":0.75,
+         "fGreen":0.75,
+         "fBlue":0.75
+      },
       "cTintItems":null,
       "cBodySmoke":null,
       "cBodyFlames":{
          "fRed":2.25,
          "fGreen":2.55,
          "fBlue":2.00
-      },
-      "sCustomTexture":"Cinderwings"
+      }
    },
    "Category_Character":{
       "sName":"Cinderwings",

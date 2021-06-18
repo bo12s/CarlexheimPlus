@@ -10,8 +10,7 @@
       "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null,
-      "sCustomTexture":"PolarLox"
+      "cBodyFlames":null
    },
    "Category_Character":{
       "sName":"Icebreaker Calf",

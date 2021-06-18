@@ -7,15 +7,18 @@
          "fY":2,
          "fZ":2
       },
-      "cTintColor":null,
+      "cTintColor":{
+         "fRed" : 0.25,
+         "fGreen" : 0.25,
+         "fBlue" : 0.25
+      },
       "cTintItems":null,
       "cBodySmoke":{
          "fRed":0.1,
          "fGreen":0.1,
          "fBlue":0.1
       },
-      "cBodyFlames":null,
-      "sCustomTexture":"StormHatchling"
+      "cBodyFlames":null
    },
    "Category_Character":{
       "sName":"Storm-herald Wyrven",

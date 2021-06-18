@@ -7,11 +7,14 @@
          "fY":1.2,
          "fZ":1.2
       },
-      "cTintColor":null,
+      "cTintColor":{
+         "fRed": 2.28,
+         "fGreen": 2.38,
+         "fBlue": 2.40
+      },
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null,
-      "sCustomTexture":"PolarFenring"
+      "cBodyFlames":null
    },
    "Category_Character":{
       "sName":"Pale-coat Fenring",

@@ -7,15 +7,18 @@
          "fY":1,
          "fZ":1
       },
-      "cTintColor":null,
+      "cTintColor":{
+         "fRed":0.15,
+         "fGreen":0.15,
+         "fBlue":0.15
+      },
       "cTintItems":null,
       "cBodySmoke":null,
       "cBodyFlames":{
-         "fRed":2.55,
-         "fGreen":1.5,
-         "fBlue":0.5
-      },
-      "sCustomTexture":"BurnedBones"
+         "fRed":0.05,
+         "fGreen":0.05,
+         "fBlue":0.05
+      }
    },
    "Category_Character":{
       "sName":"Blazing Bones",
