@@ -7,14 +7,11 @@
          "fY":3,
          "fZ":2
       },
-      "cTintColor":{
-         "fRed": 1.95,
-         "fGreen": 1.95,
-         "fBlue": 1.95
-      },
+      "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null
+      "cBodyFlames":null,
+      "sCustomTexture":"Jotunn"
    },
    "Category_Character":{
       "sName":"Jotunn",

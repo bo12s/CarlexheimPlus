@@ -10,7 +10,8 @@
       "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null
+      "cBodyFlames":null,
+      "sCustomTexture":"Spider"
    },
    "Category_Character":{
       "sName":"Suffocating GloomWeaver",

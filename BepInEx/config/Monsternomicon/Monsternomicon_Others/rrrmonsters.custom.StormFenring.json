@@ -14,7 +14,8 @@
          "fGreen":0.1,
          "fBlue":0.1
       },
-      "cBodyFlames":null
+      "cBodyFlames":null,
+      "sCustomTexture":"StormFenring"
    },
    "Category_Character":{
       "sName":"The One Who Hunts in the Rain",

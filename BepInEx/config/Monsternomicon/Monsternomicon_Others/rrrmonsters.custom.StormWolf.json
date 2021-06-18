@@ -7,14 +7,11 @@
          "fY":1.2,
          "fZ":1.2
       },
-      "cTintColor":{
-         "fRed" : 0.75,
-         "fGreen" : 0.75,
-         "fBlue" : 0.75
-      },
+      "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
-      "cBodyFlames":null
+      "cBodyFlames":null,
+      "sCustomTexture":"StormWolf"
    },
    "Category_Character":{
       "sName":"Storm-devourer Vargr",

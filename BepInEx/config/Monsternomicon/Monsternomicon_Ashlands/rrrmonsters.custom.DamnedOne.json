@@ -7,18 +7,15 @@
          "fY":1.2,
          "fZ":1.2
       },
-      "cTintColor":{
-         "fRed":0.15,
-         "fGreen":0.15,
-         "fBlue":0.15
-      },
+      "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
       "cBodyFlames":{
          "fRed":0.05,
          "fGreen":0.05,
          "fBlue":0.05
-      }
+      },
+      "sCustomTexture":"BurnedBones"
    },
    "Category_Character":{
       "sName":"The Damned One",

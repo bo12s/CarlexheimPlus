@@ -7,18 +7,15 @@
          "fY":0.3,
          "fZ":0.3
       },
-      "cTintColor":{
-         "fRed":0.75,
-         "fGreen":0.75,
-         "fBlue":0.75
-      },
+      "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
       "cBodyFlames":{
          "fRed":2,
          "fGreen":0,
          "fBlue":2
-      }
+      },
+      "sCustomTexture":"Cinderwings"
    },
    "Category_Character":{
       "sName":"Moonlit Moth",

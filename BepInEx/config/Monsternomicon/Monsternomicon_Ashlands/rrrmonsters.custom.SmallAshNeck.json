@@ -7,18 +7,15 @@
          "fY":1.5,
          "fZ":1.5
       },
-          "cTintColor":{
-         "fRed":1.70,
-         "fGreen":0.0,
-         "fBlue":0.0
-      },
+      "cTintColor":null,
       "cTintItems":null,
       "cBodySmoke":null,
       "cBodyFlames":{
          "fRed":0.05,
          "fGreen":0.05,
          "fBlue":0.05
-      }
+      },
+      "sCustomTexture":"AshNeck"
    },
    "Category_Character":{
       "sName":"Ash-eater Tadpole",
