@@ -49,7 +49,7 @@ if($gitFound){
     Write-Host "WEB REQUEST:"    
     Write-Host ""
     Write-Host "Downloading..."
-    Invoke-WebRequest https://github.com/bo12s/CarlexheimPlus/archive/main.zip -OutFile main.zip
+    Start-BitsTransfer -Source "https://github.com/bo12s/CarlexheimPlus/archive/main.zip" -Destination .\main.zip
     Write-Host "Done!"
     Write-Host ""
     Write-Host "Extracting..."
