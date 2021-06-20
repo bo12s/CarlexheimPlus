@@ -1,11 +1,13 @@
 try{
-    $gitUninstall = Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Git_is1" -Name UninstallString
-    $gitPath = Split-Path $gitUninstall
-    $gitPath = $gitPath.TrimStart('"')
-    Write-Host $gitPath
-    $gitExe = $gitPath+"\bin\git.exe"
-    Write-Host $gitExe
-    $gitFound = Test-Path $gitExe -PathType Leaf
+    if(Test-Path 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Git_is1'){
+        $gitUninstall = Get-ItemPropertyValue -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Git_is1" -Name UninstallString
+        $gitPath = Split-Path $gitUninstall
+        $gitPath = $gitPath.TrimStart('"')
+        Write-Host $gitPath
+        $gitExe = $gitPath+"\bin\git.exe"
+        Write-Host $gitExe
+        $gitFound = Test-Path $gitExe -PathType Leaf
+    }   
 }catch{
     "Not found!"
 }
@@ -13,7 +15,7 @@ try{
 # Delete archive stuff
 Write-Host "Removing archives..."
 if (Test-Path .\CarlexheimPlus) {
-    Remove-Item .\CarlexheimPlus -Recurse -Force -Verbose
+    Remove-Item .\CarlexheimPlus -Recurse -Force
 }
 if (Test-Path .\main.zip) {
     Remove-Item .\main.zip
