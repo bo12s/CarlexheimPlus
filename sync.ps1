@@ -64,6 +64,4 @@ if($gitFound){
     Write-Host ""
 }
 
-return
-
-
+pause
