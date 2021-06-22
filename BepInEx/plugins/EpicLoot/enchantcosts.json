@@ -102,22 +102,28 @@
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_elder" ],
-      "Products" : [ { "Item": "RunestoneRare", "Amount": 1 } ]
+      "Products" : [ 
+        { "Item": "RunestoneMagic", "Amount": 2 },
+        { "Item": "RunestoneRare", "Amount": 1 } ]
     },
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_bonemass" ],
-      "Products" : [ { "Item": "RunestoneEpic", "Amount": 1 } ]
+      "Products" : [ 
+        { "Item": "RunestoneRare", "Amount": 2 },
+        { "Item": "RunestoneEpic", "Amount": 1 } ]
     },
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_dragonqueen" ],
-      "Products" : [ { "Item": "RunestoneLegendary", "Amount": 2 } ]
+      "Products" : [ 
+        { "Item": "RunestoneEpic", "Amount": 2 },
+        { "Item": "RunestoneLegendary", "Amount": 1 } ]
     },
     {
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_goblinking" ],
-      "Products" : [ { "Item": "RunestoneLegendary", "Amount": 4 } ]
+      "Products" : [ { "Item": "RunestoneLegendary", "Amount": 3 } ]
     },
     {
       "ItemNames" : [ "$item_cryptkey" ],
@@ -130,23 +136,15 @@
     {
       "ItemNames" : [ "$item_dragontear" ],
       "Products" : [
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 1 },
-        { "Item": "ReagentLegendary", "Amount": 1 }
-      ]
-    },
-    {
-      "ItemNames" : [ "$item_dragontear" ],
-      "Products" : [
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 1 },
-        { "Item": "ReagentLegendary", "Amount": 1 }
+        { "Item": "DustEpic",    "Amount": 3 },
+        { "Item": "EssenceEpic", "Amount": 2 },
+        { "Item": "ReagentEpic", "Amount": 2 }
       ]
     },
     {
       "ItemNames" : [ "Yagluth thing" ],
       "Products" : [
-        { "Item": "DustLegendary",    "Amount": 6 },
+        { "Item": "DustLegendary",    "Amount": 4 },
         { "Item": "EssenceLegendary", "Amount": 3 },
         { "Item": "ReagentLegendary", "Amount": 3 }
       ]
