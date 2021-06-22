@@ -57,20 +57,33 @@ if($gitFound){
        try{
             Start-BitsTransfer -Source "https://github.com/bo12s/CarlexheimPlus/archive/main.zip" -Destination .\main.zip
             $complete = true
+            Write-Host "Done!"
+    
         }catch{
             "Transfer failed"
         }
     }
         
-    Write-Host "Done!"
     Write-Host ""
+    
+    if(Test-Path .\main.zip -PathType Leaf){
     Write-Host "Extracting..."
-    Expand-Archive -LiteralPath .\main.zip -DestinationPath .\    
-    Write-Host "Done!"
+        Expand-Archive -LiteralPath .\main.zip -DestinationPath .\    
+        Write-Host "Done!"
+    } else{
+       Write-Host "Missing zip-file, can't extract!" 
+    }
+
     Write-Host ""
-    Write-Host "Copying..."
-    Copy-Item -Path .\CarlexheimPlus-main\* -Destination .\ -Exclude *.ps1 -Recurse
-    Write-Host "Done!"
+    
+    if(Test-Path .\CarlexheimPlus-main){
+        Write-Host "Copying..."
+        Copy-Item -Path .\CarlexheimPlus-main\* -Destination .\ -Exclude *.ps1 -Recurse   
+        Write-Host "Done!"
+    } else{
+       Write-Host "Missing folder, can't copy!" 
+    }
+    
     Write-Host ""
 }
 
