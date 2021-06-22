@@ -51,7 +51,17 @@ if($gitFound){
     Write-Host "WEB REQUEST:"    
     Write-Host ""
     Write-Host "Downloading..."
-    Start-BitsTransfer -Source "https://github.com/bo12s/CarlexheimPlus/archive/main.zip" -Destination .\main.zip
+    $complete = false
+
+    while(not $complete){
+       try{
+            Start-BitsTransfer -Source "https://github.com/bo12s/CarlexheimPlus/archive/main.zip" -Destination .\main.zip
+            $complete = true
+        }catch{
+            "Transfer failed"
+        }
+    }
+        
     Write-Host "Done!"
     Write-Host ""
     Write-Host "Extracting..."
