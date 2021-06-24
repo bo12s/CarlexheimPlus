@@ -14,6 +14,7 @@
     "bloodrushMaxSpeed": 0.5,
     "enableMarkedForDeathFX": true,
     "brassfleshTTL": 10,
+    "setsAreLockedByTier": false,
     "boonSettings": {
         "bloodlust": {
             "damage": 0.20,
@@ -51,7 +52,7 @@
     },
     "rags": {
         "enabled": true,
-        "name": "rags",
+        "name": "beotes",
         "baseArmor": 2,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -121,8 +122,8 @@
         }
     },
     "leather": {
-        "enabled": false,
-        "name": "leather",
+        "enabled": true,
+        "name": "fyrd",
         "baseArmor": 2,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -201,7 +202,7 @@
     },
     "trollLeather": {
         "enabled": true,
-        "name": "trollLeather",
+        "name": "jotunn",
         "baseArmor": 4,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -270,7 +271,7 @@
     },
     "bronze": {
         "enabled": true,
-        "name": "bronze",
+        "name": "eorl",
         "baseArmor": 9,
         "armorPerLevel": 2,
         "globalMoveMod": -0.05,
@@ -324,7 +325,7 @@
     },
     "iron": {
         "enabled": true,
-        "name": "iron",
+        "name": "thegn",
         "baseArmor": 14,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -374,7 +375,7 @@
     },
     "silver": {
         "enabled": true,
-        "name": "silver",
+        "name": "wyrdwulf",
         "baseArmor": 18,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -416,7 +417,7 @@
     },
     "padded": {
         "enabled": true,
-        "name": "padded",
+        "name": "huscarl",
         "baseArmor": 26,
         "armorPerLevel": 2,
         "globalMoveMod": -0.07,
@@ -512,7 +513,7 @@
     },
     "chaosT0": {
         "enabled": true,
-        "name": "chaos",
+        "name": "chosen",
         "baseArmor": 20,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -583,7 +584,7 @@
     },
     "chaosT1": {
         "enabled": true,
-        "name": "chaos",
+        "name": "chosen T1",
         "baseArmor": 24,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
@@ -654,7 +655,7 @@
     },
     "chaosT2": {
         "enabled": true,
-        "name": "chaos",
+        "name": "chosen T2",
         "baseArmor": 28,
         "armorPerLevel": 2,
         "globalMoveMod": 0,
