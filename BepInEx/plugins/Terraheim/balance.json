@@ -425,7 +425,7 @@
         "headEffect": "meleedmg",
         "chestEffect": "blockpower",
         "legsEffect": "healonblock",
-        "setBonusVal": 1.1,
+        "setBonusVal": 0.40,
         "headEffectVal": 0.05,
         "chestEffectVal": 0.2,
         "legsEffectVal": 0.05,
@@ -435,7 +435,7 @@
                 "baseArmor": 30,
                 "armorPerLevel": 2,
                 "globalMoveMod": 0,
-                "setBonusVal": 1.2,
+                "setBonusVal": 0.50,
                 "headEffectVal": 0.08,
                 "chestEffectVal": 0.23,
                 "legsEffectVal": 0.07
@@ -1056,7 +1056,7 @@
         },
         "t3": {
             "station": "reforger",
-            "minLevel": 2,
+            "minLevel": 1,
             "head": [
                 {
                     "item": "Iron",

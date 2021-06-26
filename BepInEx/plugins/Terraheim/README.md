@@ -4,7 +4,7 @@
 ## Weapons and Tools
 39 new weapons and tools have been added with the goal of filling in the gaps in each tier.
 14 of which are new Flametal weapons which have unique and dangerous effects, from hurtling waves of fire across the battlefield with Mistilteinn to teleporting to the struck location with Rhongomiant! 
-![weapons](![](https://cdn.discordapp.com/attachments/610164117277245482/857030554238844968/unknown.png)![Flametal Weapons](https://media.discordapp.net/attachments/610164117277245482/857032073940303902/unknown.png?width=1110&height=676)
+(![](https://cdn.discordapp.com/attachments/610164117277245482/857030554238844968/unknown.png)![Flametal Weapons](https://media.discordapp.net/attachments/610164117277245482/857032073940303902/unknown.png?width=1110&height=676)
 ### Throwing Weapons
 Five new throwing axes have been added as well as Fire, Frost and Lightning bombs!
 ![Throwing Axes](https://cdn.discordapp.com/attachments/610164117277245482/834155655367491684/unknown.png)
@@ -88,6 +88,13 @@ These mods compliment Terraheim by adding new weapons and rebalancing mechanics.
 [Nexus](https://www.nexusmods.com/valheim/mods/803?tab=description)
 
 ### Patchnotes
+**v2.1.3**
+- Fixed Burning Wyrdwulf armor not requiring padded Wyrdwulf armor to reforge
+- Fixed Beotes armor not requiring the previous tier of armor to reforge
+- Adjusted Tier 3 min crafting station requirements, you should be able to upgrade an iron tier set to max now.
+**v2.1.2**
+- Fixed thorn calculations. Max thorn % is now 50%.
+- Chaos Armor Set's max quality is now 4
 **v2.1.1**
 - Added the setsAreLockedByTier option in the balance.json. Enabling this will means that each set is distinct for its tier. You won't be able to mix and match differing tiers of armor and get the set bonus.
 - Fixed item descriptions duplicating on relog
