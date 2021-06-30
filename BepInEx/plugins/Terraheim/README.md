@@ -67,12 +67,12 @@ Just note that set effects are seperate from standard armor effects, so you can'
 ## Compatibility
 There seems to be an incompatibility with ValheimLibOpenDatabasePatch.dll. Unfortunately I can't do anything about this issue, sorry.
 TripleBronze also appears to be incompatible.
-EpicLoot is compatible but when you reforge an enchanted piece of armor, it will lose that enchantment until you relog/reload your world. A more graceful fix is coming.
+EpicLoot is compatible but when you reforge an enchanted piece of armor, it will lose that enchantment until you relog/reload your world. A more graceful fix is coming. There are some compatability issues with specific enchantments however. Greatswords with the Attack Speed enchant will not have the terraheim speed changes applied. Throwable Greataxes will impact almost immediately.
 ## Future Plans
 Flametal armor sets for each class
 EpicLoot version with tweaked balance
 ### Known Issues
-none atm
+The blackmetal pickaxe is using the old script for terrain deformation, so a lot of terraforming with it might lag out your game.
 
 ### Recommended Mods
 These mods compliment Terraheim by adding new weapons and rebalancing mechanics.
@@ -88,6 +88,12 @@ These mods compliment Terraheim by adding new weapons and rebalancing mechanics.
 [Nexus](https://www.nexusmods.com/valheim/mods/803?tab=description)
 
 ### Patchnotes
+**v2.1.4**
+- Updated the description for Chosen Banes/Boons to explain what they do. 
+- Updated the description for the Chosen set to explain being Blessed and Cursed.
+- Fixed error caused by Svalinn whenever you took damage from a non-humanoid source
+- Fixed issue with the Chosen set where you could not gain additional boons/banes after the blessing/curse cleared
+- POTENTIAL fix for throwing axes being deleted when a non-host hits an enemy with them.
 **v2.1.3**
 - Fixed Burning Wyrdwulf armor not requiring padded Wyrdwulf armor to reforge
 - Fixed Beotes armor not requiring the previous tier of armor to reforge
