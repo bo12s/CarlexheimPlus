@@ -1019,9 +1019,13 @@
           "Drops": [ [1, 45], [2, 40], [3, 15] ],
           "Loot": [
             { "Item": "Tier0Mats",   "Weight": 5, "Rarity": [ 73, 20, 5, 2 ] },
+            { "Item": "Tier0Runestone",   "Weight": 5, "Rarity": [ 73, 20, 5, 2 ] },
             { "Item": "Tier1Mats",   "Weight": 3, "Rarity": [ 73, 20, 5, 2 ] },
+            { "Item": "Tier1Runestone",   "Weight": 3, "Rarity": [ 73, 20, 5, 2 ] },
             { "Item": "Tier2Mats",   "Weight": 2, "Rarity": [ 73, 20, 5, 2 ] },
-            { "Item": "Tier3Mats",   "Weight": 1, "Rarity": [ 73, 20, 5, 2 ] }
+            { "Item": "Tier2Runestone",   "Weight": 2, "Rarity": [ 73, 20, 5, 2 ] },
+            { "Item": "Tier3Mats",   "Weight": 1, "Rarity": [ 73, 20, 5, 2 ] },
+            { "Item": "Tier3Runestone",   "Weight": 1, "Rarity": [ 73, 20, 5, 2 ] }
           ]
         },
         {
@@ -1078,9 +1082,13 @@
           "Drops": [ [1, 20], [2, 65], [3, 15], [4, 0] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 5, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "Tier0Runestone", "Weight": 5, "Rarity": [ 59, 29, 10, 2 ] },
             { "Item": "Tier1Mats", "Weight": 3, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "Tier1Runestone", "Weight": 3, "Rarity": [ 59, 29, 10, 2 ] },
             { "Item": "Tier2Mats", "Weight": 2, "Rarity": [ 59, 29, 10, 2 ] },
-            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] }
+            { "Item": "Tier2Runestone", "Weight": 2, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "Tier3Runestone", "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
           ]
         },
         {
@@ -1136,8 +1144,12 @@
           "Drops": [ [1, 0], [2, 60], [3, 35], [4, 5] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 3, "Rarity": [ 20, 60, 15, 5 ] },
+            { "Item": "Tier0Runestone", "Weight": 3, "Rarity": [ 20, 60, 15, 5 ] },
             { "Item": "Tier1Mats", "Weight": 5, "Rarity": [ 20, 60, 15, 5 ] },
+            { "Item": "Tier1Runestone", "Weight": 5, "Rarity": [ 20, 60, 15, 5 ] },
             { "Item": "Tier2Mats", "Weight": 2, "Rarity": [ 20, 60, 15, 5 ] },
+            { "Item": "Tier2Runestone", "Weight": 2, "Rarity": [ 20, 60, 15, 5 ] },
+            { "Item": "Tier3Runestone", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
             { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] }
           ]
         },
@@ -1195,8 +1207,11 @@
           "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 3, "Rarity": [ 0, 40, 50, 10 ] },
+            { "Item": "Tier1Runestone", "Weight": 3, "Rarity": [ 0, 40, 50, 10 ] },
             { "Item": "Tier2Mats", "Weight": 5, "Rarity": [ 0, 40, 50, 10 ] },
-            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 0, 40, 50, 10 ] }
+            { "Item": "Tier2Runestone", "Weight": 5, "Rarity": [ 0, 40, 50, 10 ] },
+            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 0, 40, 50, 10 ] },
+            { "Item": "Tier3Runestone", "Weight": 1, "Rarity": [ 0, 40, 50, 10 ] }
           ]
         },
         {
@@ -1253,7 +1268,9 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 3, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier2Runestone", "Weight": 3, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier3Mats", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier3Runestone", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
